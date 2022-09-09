@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/lsguilherme">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=lsguilherme&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsguilherme&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=lsguilherme&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsguilherme&layout=compact&langs_count=7&theme=darcula"/>
 </div>			
 	
