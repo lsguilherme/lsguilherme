@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img widht="48%" src="https://github-readme-stats.vercel.app/api?username=lsguilherme&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img widht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsguilherme&layout=compact&langs_count=7&theme=darcula"/>
+  <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=lsguilherme&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsguilherme&layout=compact&langs_count=7&theme=darcula&count_private=true"/>
 </div>			
 	
