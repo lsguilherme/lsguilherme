@@ -6,11 +6,11 @@
 
 - 📖 Atualmente estudando: **JavaScript**, **Java**, **Spring**, **React** e **CSS**
 
-- 👔 Áreas de Interesse: Full-Stack
+- 👔 Áreas de Interesse: Front-end
 
 - 📚 Conhecimentos: SQL, NoSQL, Docker
 
-- 🧰 Usando: Git/GitHub, Intellij IDEA e Visual Studio Code
+- 🧰 Usando: Git/GitHub, Metodologias Ágeis e Visual Studio Code
 
 - ✉️ **Contatos:** [Gmail](mailto:lacerdagui42@gmail.com) e [Linkendin](https://www.linkedin.com/in/guilherme-lacerda-498996210/) 
 
