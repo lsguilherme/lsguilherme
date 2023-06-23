@@ -4,13 +4,13 @@
 
 - 👨‍🎓 Estudante: Análise e Desenvolvimento de Sistemas - IFPE Jaboatão
 
-- 📖 Atualmente estudando: **JavaScript**, **Java**, **Spring**, **React** e **CSS**
+- 📖 Atualmente estudando: **JavaScript**, **React** **React Native** e **CSS**
 
 - 👔 Áreas de Interesse: Front-end
 
 - 📚 Conhecimentos: SQL, NoSQL, Docker
 
-- 🧰 Usando: Git/GitHub, Metodologias Ágeis e Visual Studio Code
+- 🧰 Usando: Git e Metodologias Ágeis
 
 - ✉️ **Contatos:** [Gmail](mailto:lacerdagui42@gmail.com) e [Linkendin](https://www.linkedin.com/in/guilherme-lacerda-498996210/) 
 
