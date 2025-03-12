@@ -8,11 +8,11 @@
 
 - 👔 Áreas de Interesse: Full Stack
 
-- 📚 Conhecimentos: SQL, NoSQL, Docker, Git, JavaScript, TypeScrit, React, React Native, Css.
+- 📚 Conhecimentos: Java, Spring Boot SQL, PostgreSQL, AWS, MongoDB, NoSQL, Docker, Git, JavaScript, TypeScrit, React, React Native, CSS, HTML.
 
 - 🧰 Usando: Git e Metodologias Ágeis
 
-- ✉️ **Contatos:** [Gmail](mailto:lacerdagui42@gmail.com) e [Linkendin](https://www.linkedin.com/in/sguilhermelacerda/) 
+- ✉️ **Contatos:** [Gmail](mailto:lacerdagui42@gmail.com) e [LinkedIn](https://www.linkedin.com/in/sguilhermelacerda/) 
 
 
 ---
